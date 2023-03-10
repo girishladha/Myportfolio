@@ -12,9 +12,9 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+          Along with descriptions and links to the live websites or web applications. The purpose of this section is to provide 
+          visitors with a clear understanding of the developer's expertise and style,
+           as well as to demonstrate their ability to create high-quality and visually appealing websites.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
