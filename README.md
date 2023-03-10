@@ -1,3 +1,20 @@
+this is just a demo portfolio created by me for the showcase of my development skills also helps me to create and deployed full website by git and github 
+# to access this project you could visit the link below ..
+ (  https://girishladha.github.io/Myportfolio/  )
+ 
+ inorder to deploy it at github just run follow some common commands as ..
+ git add .
+ git commit -m "xyz"
+ git push -m 
+ 
+ then the code is pushed into the predefined repository and now run:::
+ 
+ npm run deploy..
+ npm run start..
+ 
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
