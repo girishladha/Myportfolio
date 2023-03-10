@@ -2,7 +2,14 @@ this is just a demo portfolio created by me for the showcase of my development s
 # to access this project you could visit the link below ..
  (  https://girishladha.github.io/Myportfolio/  )
  
- inorder to deploy it at github just run follow some common commands as ..
+# Lightmode is also added in the rightbottom of site..
+here i had add a lightmode functionality at the right bottom of functioning site you can try to use it by pressing a purple circular button 
+used a package for darkmode by( npmjs.com )
+you can get it from ..
+( https://www.npmjs.com/package/@alec.brunelle/darkmode-js )
+
+
+inorder to deploy it at github just run follow some common commands as ..
  git add .
  git commit -m "xyz"
  git push -m 
